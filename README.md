@@ -94,10 +94,4 @@ const moodQueries = {
 };
 ```
 
-## Next Step
 
-Next we will create `package.json`, which turns this folder into a Node.js project and gives us commands like:
-
-```text
-npm start
-```
